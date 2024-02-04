@@ -1,7 +1,7 @@
-Hi 👋 My name is Daniel
+Daniel M Lewis
 =======================
-
-I've been learning code for the last five years since changing careers from Public policy and Administration. My interest are in UX design and interface, databases management, and interested in learning front end and band end development.
+Let's Connect & Collab
+I've been working as Quality Analyst  My interest are in learning UX design and interface, sharpening my databases management skils and interested in learning Python & SQL. 
 
 ### Skills
 
