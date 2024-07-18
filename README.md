@@ -1,7 +1,7 @@
 Daniel M Lewis
 =======================
 Let's Connect & Collab
-I've been working as Quality Analyst  My interest are in learning UX design and interface, sharpening my databases management skils and interested in learning Python & SQL. 
+I've been working in Compliance & Quality Improvement. My interest are in learning UX design and interface, sharpening my databases management skils and interested in learning Python & SQL. 
 
 ### Skills
 
