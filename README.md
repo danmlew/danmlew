@@ -1,7 +1,17 @@
 Daniel M Lewis
 =======================
-Let's Connect & Collab
-I've been working in Compliance & Quality Improvement. My interest are in learning UX design and interface, sharpening my databases management skils and interested in learning Python & SQL. 
+Hi, I’m Daniel Lewis—a healthcare professional with a background in Compliance & Quality Improvement. I'm passionate about performance improvement, data-driven decision-making, and building solutions that impact underserved communities.
+
+I’m currently:
+
+Preparing for a new role as Hospital Director of Data and Performance.
+Learning Python and SQL to sharpen my database management and analytics skills.
+Exploring UX design to enhance user-centric interfaces for healthcare tech.
+What I bring to the table:
+
+Expertise in Lean methods, PI techniques, and healthcare operations.
+A focus on creating meaningful change in communities through technology and strategic consulting.
+Leadership experience in healthcare performance improvement and project management. 
 
 ### Skills
 
